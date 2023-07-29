@@ -13,8 +13,7 @@
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
-    </dependency>
-  </dependencies>
+    </dependency>They are not listed, but there are</dependencies>
   <build>
     <finalName>MyWebApp</finalName>
   </build>
